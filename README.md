@@ -6,7 +6,7 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 This repository is a work-in-progress to implement an end-to-end data collection
-and analysis pipeline to help tackle the problem of website fingerprinting
+and analysis pipeline to help tackle the problems of website fingerprinting
 attacks in the context of Tor Hidden Services
 [[1]](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-kwon.pdf).
 It is designed as a single system that carries out everything from data
@@ -35,7 +35,7 @@ The pipeline works as follows:
 
 Our hope is that later we will be able to make this code more composable. There
 has already been some effort in that direction, and it should be pretty easy to
-use at least the sorter and crawler if you're interested in monitoring a site
+use at least the sorter and crawler if you are interested in monitoring a site
 besides SecureDrop.
 
 ## Getting Started
